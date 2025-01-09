@@ -1,7 +1,5 @@
-## Olá, meu nome é Marcos, atualmente trabalho na Porto Seguro como Líder Técnico de uma squad de autenticação. Comecei a gostar de técnologia a partir de jogos de vídeo-game. Atuei com sustentação e hoje trabalho com desenvolvimento.
-
-- 5 anos de experiência atuando com desenvolvimento. Desses 5 anos, trabalhei cerca de 4 anos com automações/RPA e 1 ano com APIs utilizando a linguagem de programação Java;
-- 5 anos de experiência com sustentação, atuando como HelpDesk, Atendimento Field e com troca de equipamentos;
+## Olá, seja bem vindo ao meu perfil! 
+Me chamo Marcos, atualmente trabalho na Porto como Engenheiro de Software.
 
 <div align="center">
   <a href="https://github.com/MVBPinho">
