@@ -1,6 +1,6 @@
 ## Olá, seja bem vindo ao meu perfil! 
-Me chamo Marcos, atualmente trabalho na Porto como Engenheiro de Software.
-LinkedIn: www.linkedin.com/in/pinhomarcos
+### Me chamo Marcos, atualmente trabalho na Porto como Engenheiro de Software.
+### LinkedIn: www.linkedin.com/in/pinhomarcos
 
 <div align="center">
   <a href="https://github.com/MVBPinho">
